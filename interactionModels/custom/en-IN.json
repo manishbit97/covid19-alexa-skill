@@ -1,0 +1,38 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "invocationName": "covid nineteen india app",
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "name": "HelloWorldIntent",
+          "slots": [],
+          "samples": [
+            "stay home stay safe",
+            "rise in number in last twenty four hours",
+            "covid india active cases",
+            "covid india cases",
+            "Hello what is covid india stats"
+          ]
+        },
+        {
+          "name": "AMAZON.NavigateHomeIntent",
+          "samples": []
+        }
+      ],
+      "types": []
+    }
+  },
+  "version": "9"
+}

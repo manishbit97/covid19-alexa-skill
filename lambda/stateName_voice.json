@@ -1,0 +1,39 @@
+{
+    "Andaman and Nicobar Islands": {
+        "voices": [
+            "Andaman",
+            "Nicobar",
+            "Andaman and Nicobar",
+            "andaman nicobar",
+            "amman",
+            "arman"
+        ],
+        "data": {
+            "state": "Andaman and Nicobar Islands",
+            "statecode": "AN",
+        }
+    },
+    "Andhra Pradesh": {
+        "voices": [
+            "andhra",
+            "aandhra pradesh",
+            "andhra pradesh"
+        ],
+        "data": {
+            "state": "Andhra Pradesh",
+            "statecode": "AP"
+        }
+    },
+    "Arunachal Pradesh": {
+        "voices": [
+            "Arunachal Pradesh",
+            "Arunachal",
+            "arunachal pradesh",
+            "arunanchal pradesh"
+        ],
+        "data": {
+            "state": "Arunachal Pradesh",
+            "statecode": "AR"
+        }
+    }
+}
